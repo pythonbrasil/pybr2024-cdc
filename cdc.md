@@ -1,6 +1,6 @@
 # Código de Conduta
 
-O evento Python Brasil é um ambiente amistoso, de convivência harmoniosa, inclusivo e livre de intimidações, onde todas as pessoas são bem-vindas e a civilidade é exigida.
+A Python Brasil é um evento que tem o propósito de oferecer uma vivência livre de assédio para todas as pessoas envolvidas, independente de identidade de gênero, sexo, orientação sexual, deficiência, aparência física, composição corporal, raça, classe social, religião e qualquer representação de diversidade.
 
 Portanto:
 
@@ -37,7 +37,9 @@ A equipe de resposta será identifica de duas formas:
 ---
 
 ## [Python Brasil Code of Conduct](#en)
-The Python Brasil event is a friendly, harmonious, inclusive, and intimidation-free environment where everyone is welcome and civility is required.
+
+Python Brasil is an event with the purpose of providing a harassment-free experience for everyone involved, regardless of gender identity, sex, sexual orientation, disability, physical appearance, body composition, race, social class, religion, and any representation of diversity.
+
 
 Therefore:
 
@@ -72,7 +74,7 @@ By contacting any member of the Response Team in person or virtually.
 
 ## [Código de Conducta del Evento Python Brasil](#es)
 
-El evento Python Brasil es un ambiente amistoso, de convivencia armoniosa, inclusivo y libre de intimidaciones, donde todas las personas son bienvenidas y la civilidad es exigida.
+Python Brasil es un evento que tiene el propósito de ofrecer una experiencia libre de acoso para todas las personas involucradas, independientemente de la identidad de género, sexo, orientación sexual, discapacidad, apariencia física, composición corporal, raza, clase social, religión y cualquier representación de diversidad.
 
 Por lo tanto:
 
