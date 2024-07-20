@@ -27,7 +27,7 @@ Havendo um relato de violação destes princípios, a Equipe de Resposta realiza
 A equipe de resposta será identifica de duas formas:
 
  - Através de camisas de diferentes cores com relação a organização e participantes. Essas camisas poderão ser identificadas no balcão de credenciamento do evento. 
- - Através de um permissionamento específico no canal da Python Brasil no Discord.<br/><img width="594" alt="Screenshot 2024-07-19 at 20 55 22" src="https://github.com/user-attachments/assets/4119d941-4e7e-4327-a23a-3b33409aeeb9">
+ - Através de um permissionamento específico no canal da Python Brasil no Discord. (`pybr2024-cdc`) <br/><img width="594" alt="Screenshot 2024-07-19 at 20 55 22" src="https://github.com/user-attachments/assets/4119d941-4e7e-4327-a23a-3b33409aeeb9">
   
 ### Como enviar uma denúncia
 
@@ -64,7 +64,7 @@ If there is a report of a violation of these principles, the Response Team will 
 The response team will be identified in two ways:
 
 - By wearing shirts of different colors from those of the organizers and participants. These shirts can be identified at the event's registration desk.
-- By having a specific role in the Python Brasil Discord channel.<br/><img width="594" alt="Screenshot 2024-07-19 at 20 55 22" src="https://github.com/user-attachments/assets/4119d941-4e7e-4327-a23a-3b33409aeeb9">
+- By having a specific role in the Python Brasil Discord channel (`pybr2024-cdc`) .<br/><img width="594" alt="Screenshot 2024-07-19 at 20 55 22" src="https://github.com/user-attachments/assets/4119d941-4e7e-4327-a23a-3b33409aeeb9">
 
 ### How to Submit a Report
 Through an anonymous form, the link to which will be shared and updated within this code of conduct before the event starts, available in English, Portuguese, and Spanish.
@@ -99,7 +99,7 @@ Si hay un informe de violación de estos principios, el Equipo de Respuesta real
 El equipo de respuesta se identificará de dos formas:
 
 - A través de camisetas de colores diferentes en comparación con las de los organizadores y participantes. Estas camisetas podrán ser identificadas en el mostrador de registro del evento.
-- A través de un permiso específico en el canal de Discord de Python Brasil.<br/><img width="594" alt="Screenshot 2024-07-19 at 20 55 22" src="https://github.com/user-attachments/assets/4119d941-4e7e-4327-a23a-3b33409aeeb9">
+- A través de un permiso específico en el canal de Discord de Python Brasil. (`pybr2024-cdc`) <br/><img width="594" alt="Screenshot 2024-07-19 at 20 55 22" src="https://github.com/user-attachments/assets/4119d941-4e7e-4327-a23a-3b33409aeeb9">
 
 ### Cómo enviar una denuncia
 
